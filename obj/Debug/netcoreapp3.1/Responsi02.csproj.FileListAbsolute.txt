@@ -1,0 +1,13 @@
+D:\19.11.2823\yonas\Responsi02\Responsi02\bin\Debug\netcoreapp3.1\Responsi02.exe
+D:\19.11.2823\yonas\Responsi02\Responsi02\bin\Debug\netcoreapp3.1\Responsi02.deps.json
+D:\19.11.2823\yonas\Responsi02\Responsi02\bin\Debug\netcoreapp3.1\Responsi02.runtimeconfig.json
+D:\19.11.2823\yonas\Responsi02\Responsi02\bin\Debug\netcoreapp3.1\Responsi02.runtimeconfig.dev.json
+D:\19.11.2823\yonas\Responsi02\Responsi02\bin\Debug\netcoreapp3.1\Responsi02.dll
+D:\19.11.2823\yonas\Responsi02\Responsi02\bin\Debug\netcoreapp3.1\Responsi02.pdb
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.csprojAssemblyReference.cache
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.csproj.CoreCompileInputs.cache
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.AssemblyInfoInputs.cache
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.AssemblyInfo.cs
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.dll
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.pdb
+D:\19.11.2823\yonas\Responsi02\Responsi02\obj\Debug\netcoreapp3.1\Responsi02.genruntimeconfig.cache
